@@ -20,7 +20,7 @@ while(1){
    }else if (answer < number){
     result  = '残念！もっと大きい数字だよ！このまま続ける？';
     }else if (number < answer ){
-   result result  = '残念！もっと小さい数字だよ！このまま続ける？';
+   result = '残念！もっと小さい数字だよ！このまま続ける？';
     }else{
     result  = '0~100の数字以外は入れないでねこのまま続ける？';
     }

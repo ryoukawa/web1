@@ -1,6 +1,6 @@
-console.log('ミニゲーム！'）！
+console.log('ミニゲーム！');
 
-var result= window.confirm('準備は良い?')
+var result= window.confirm('準備は良い?');
 
 if(result){
  document.getElementById('choice').textContent = 'OKが押されました\(0-0)/';

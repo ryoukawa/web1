@@ -15,10 +15,12 @@ while(1){
    result = '残念！もっと小さい数字だよ！このまま続ける？';
     }else{
     result  = '0~100の数字以外は入れないでねこのまま続ける？';
-    }
-     if (result===true)
+   }
+  if (result===true)
     result=0;
   else　break;
+  
 }
-    document.getElementById('choice').textContent = message;
+document.getElementById('choice').textContent = message;
+
    

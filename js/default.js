@@ -1,12 +1,4 @@
-console.log('ミニゲーム！');
 
-var result= window.confirm('準備は良い?');
-
-if(result){
- document.getElementById('choice').textContent = 'OKが押されました\(0-0)/';
- }else{
-     document.getElementById('choice').textContent = 'キャンセルされちゃった...';
- }
  
  var number = math.floor(math.random()*101);
  var result=0;

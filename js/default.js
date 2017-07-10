@@ -28,5 +28,5 @@ while(1){
     result=0;
   else　break;
    
-    document.getElementById('choice').textContent = massage;
+    document.getElementById('choice').textContent = message;
    

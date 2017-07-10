@@ -1,6 +1,6 @@
 
  
- var number = math.floor(math.random()*101);
+ var number = Math.floor(Math.random()*101);
  var result=0;
 while(1){
  var answer =parseInt(window.prompt('数あてゲーム0~100の数字を入力して下さい'));

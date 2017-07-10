@@ -27,6 +27,6 @@ while(1){
      if (result===true)
     result=0;
   else　break;
-   
+}
     document.getElementById('choice').textContent = message;
    

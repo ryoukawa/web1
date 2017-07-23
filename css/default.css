@@ -5,3 +5,8 @@ body{
   background-image:url(../img/yuuyake.jpg);
   background-repeat:repeat-x;
 }
+
+.photo{
+   float:left;
+  margin-right: 30px;
+}

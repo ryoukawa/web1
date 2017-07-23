@@ -25,9 +25,7 @@ header{
   min-width: 500px;
   float:left;
 }
-.explanation{
-  float: left;
-}
+
 #main1{
   background-color:orange;
   width: 500px;

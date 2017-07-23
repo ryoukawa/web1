@@ -18,6 +18,8 @@ body{
 
 header{
   background-color:yellow;
+  font-size:0.75em;
+  font-style:normal;
 }
 #main{
   backglound-color:white;
